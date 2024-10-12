@@ -20,6 +20,23 @@ As the project progresses, we plan to add many more features and enhancements to
 ![image](https://github.com/user-attachments/assets/c2e0779a-894b-41f3-ab31-9573560a40fe)
 
 # HOW TO USE?
+```
+git clone https://github.com/madanokr001/NetHunter.git
+```
+```
+cd NetHunter
+```
+```
+ls
+```
+```
+cd NetHunter
+```
+```
+python NetHunter.py
+```
+
+
 
 
 
