@@ -2,7 +2,7 @@
 NetHunter is a powerful tool designed for network hacking and security testing. Currently in its initial version, it offers a variety of features to help analyze network environments and detect vulnerabilities.
 As the project progresses, we plan to add many more features and enhancements to make NetHunter an even more comprehensive toolkit for security researchers and network analysts. Stay tuned for updates!
 
-# screenshot1
+# screenshot:
 ![image](https://github.com/user-attachments/assets/28a4de3d-8b5b-4777-9a89-810dca008136)
 
 # help
