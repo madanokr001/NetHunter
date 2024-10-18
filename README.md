@@ -17,7 +17,7 @@ As the project progresses, we plan to add many more features and enhancements to
 # sniffer
 ![image](https://github.com/user-attachments/assets/b732774a-2180-4f5f-9862-3a6b51950284)
 
-# DDoS - Denial-of-service attack
+# DDoS attack
 ![image](https://github.com/user-attachments/assets/941df476-1032-426e-9d70-3dee5f79578c)
 
 # Ping
